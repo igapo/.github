@@ -1,9 +1,8 @@
-# Gijinka
+# Glitch and Leak
 
-    Adventure with personas.
+    Glitch and Leak
 
 ```
-    " Mostly done in fan-art, it is the name for the humanization of any animal-like character.
-    Most popularly done with Sonic the Hedgehog characters, and Pokemon. ".
-    See: https://www.urbandictionary.com/define.php?term=Gijinka
+    Glitch and Leak is a place for personal development
+    where you work to become the best version of yourself.
 ```
