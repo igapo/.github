@@ -1,8 +1,7 @@
-# Glitch and Leak
+# Igapo
 
-    Glitch and Leak
+    Igapo (Root forest)
 
 ```
-    Glitch and Leak is a place for personal development
-    where you work to become the best version of yourself.
+  This is the organization for the project Igapo.
 ```
